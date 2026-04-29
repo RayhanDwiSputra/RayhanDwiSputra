@@ -1,7 +1,7 @@
 # Hi there, I'm Rayhan Dwi Saputra 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Mahasiswa+Teknik+Informatika;Frontend+%26+Mobile+Developer+in+Progress;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Mahasiswa+Teknik+Informatika;Frontend+%26+Mobile+Developer+in+Progress;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 </div>
 
 ---
@@ -70,14 +70,14 @@ Kotlin      █████░░░░░   Belajar
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayhan@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayhansaputra454@email.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rayhandwisaputra&color=00d4ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RayDwi&color=00d4ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <br/><br/>
   <i>⭐ Jangan lupa follow dan star repo ini jika bermanfaat!</i>
 </div>
