@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Mahasiswa+Teknik+Informatika;Frontend+%26+Mobile+Developer+in+Progress;UI%2FUX+Designer+in+Progress;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Mahasiswa+Teknik+Informatika;Frontend+%26+Mobile+Developer+in+Progress;UI%2FUX+Designer+in+Progress;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
 </div>
 
@@ -77,7 +77,7 @@ UI/UX       ██████░░░░  60%
 | Project | Deskripsi Singkat | Tech Stack |
 |---|---|---|
 | 🏥 **SIMRS RSMBS** | Sistem Informasi Manajemen Rumah Sakit — modul pendaftaran, rekam medis, farmasi & billing | Kotlin, Jetpack Compose, Room (MVVM) |
-| 🧮 **KanalInvestasi** | website belajar investasi dan informasi mengenai saham, dibuat hanya untuk pembelajaran web development |  HTML, CSS, JavaScript |
+| 🧮 **KanalInvestasi** | Website belajar investasi dan informasi saham, dibuat untuk pembelajaran web development | HTML, CSS, JavaScript |
 | 🏢 **AzuraGroup** | Website perusahaan fiktif lengkap dengan desain logo | HTML, CSS, JavaScript |
 
 </div>
@@ -109,13 +109,18 @@ UI/UX       ██████░░░░  60%
 
 <div align="center">
 
-<br/>
+<img src="https://streak-stats.demolab.com/?user=rayhandwisaputra&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RayhanDwiSputra&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<br/><br/>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=rayhandwisaputra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhandwisaputra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RayhanDwiSputra&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%" />
+<br/><br/>
+
+**📅 Grafik Kontribusi**
+
+<img src="https://ghchart.rshah.org/00D4FF/rayhandwisaputra" alt="Contribution Graph" width="95%" />
 
 </div>
 
@@ -133,7 +138,7 @@ UI/UX       ██████░░░░  60%
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=RayhanDwiSputra&color=00d4ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=rayhandwisaputra&color=00d4ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 <br/><br/>
 
