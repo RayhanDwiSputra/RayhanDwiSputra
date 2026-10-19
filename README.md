@@ -78,7 +78,7 @@ UI/UX       ██████░░░░  60%
 |---|---|---|
 | 🏥 **SIMRS RSMBS** | Sistem Informasi Manajemen Rumah Sakit — modul pendaftaran, rekam medis, farmasi & billing | Kotlin, Jetpack Compose, Room (MVVM) |
 | 🧮 **KanalInvestasi** | Website belajar investasi dan informasi saham, dibuat untuk pembelajaran web development | HTML, CSS, JavaScript |
-| 🏢 **AzuraGroup** | Website perusahaan fiktif lengkap dengan desain logo | HTML, CSS, JavaScript |
+| 🏢 **AzuraGroup Katalog** | Website Katalog perusahaan fiktif lengkap dengan desain logo | HTML, CSS, JavaScript |
 
 </div>
 
