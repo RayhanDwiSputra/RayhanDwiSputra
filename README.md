@@ -88,7 +88,6 @@ UI/UX       ██████░░░░  60%
 
 ### 🎯 Sedang Dikerjakan
 
-- 🔭 Menyelesaikan Tugas Besar OOAD & Pemrograman Mobile berbasis studi kasus rumah sakit
 - 🌱 Memperdalam arsitektur MVVM di Android & pola desain OOP
 - 👯 Terbuka untuk kolaborasi di project web maupun mobile
 - 💬 Bisa diajak diskusi soal Kotlin, Java, atau UI/UX
