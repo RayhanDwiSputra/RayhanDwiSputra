@@ -109,18 +109,18 @@ UI/UX       ██████░░░░  60%
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=rayhandwisaputra&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=RayhanDwiSputra&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rayhandwisaputra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhandwisaputra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=RayhanDwiSputra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayhanDwiSputra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
 
 <br/><br/>
 
 **📅 Grafik Kontribusi**
 
-<img src="https://ghchart.rshah.org/00D4FF/rayhandwisaputra" alt="Contribution Graph" width="95%" />
+<img src="https://ghchart.rshah.org/00D4FF/RayhanDwiSputra" alt="Contribution Graph" width="95%" />
 
 </div>
 
@@ -138,7 +138,7 @@ UI/UX       ██████░░░░  60%
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=rayhandwisaputra&color=00d4ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=RayhanDwiSputra&color=00d4ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 <br/><br/>
 
